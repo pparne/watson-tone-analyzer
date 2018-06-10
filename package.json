@@ -1,0 +1,12 @@
+{
+  "name": "SANL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Parne",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "watson-developer-cloud": "^3.4.5"
+  }
+}
